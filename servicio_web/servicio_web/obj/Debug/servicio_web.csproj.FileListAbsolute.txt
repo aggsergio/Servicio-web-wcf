@@ -1,0 +1,7 @@
+C:\Users\sergi\source\repos\servicio_web\servicio_web\bin\servicio_web.dll.config
+C:\Users\sergi\source\repos\servicio_web\servicio_web\bin\servicio_web.dll
+C:\Users\sergi\source\repos\servicio_web\servicio_web\bin\servicio_web.pdb
+C:\Users\sergi\source\repos\servicio_web\servicio_web\obj\Debug\servicio_web.csprojAssemblyReference.cache
+C:\Users\sergi\source\repos\servicio_web\servicio_web\obj\Debug\servicio_web.csproj.CoreCompileInputs.cache
+C:\Users\sergi\source\repos\servicio_web\servicio_web\obj\Debug\servicio_web.dll
+C:\Users\sergi\source\repos\servicio_web\servicio_web\obj\Debug\servicio_web.pdb
